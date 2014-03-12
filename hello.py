@@ -1,8 +1,10 @@
 def hello_world()
-	print "hello bruch1"
+	print "hello"
+	print "hello branch2"
 	
 if __name__ == '__main__'
 	hello_word()
+	print ('bye')
 	
 	
 
